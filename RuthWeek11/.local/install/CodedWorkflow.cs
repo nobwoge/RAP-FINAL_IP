@@ -15,11 +15,11 @@ using UiPath.UIAutomationNext.Enums;
 
 namespace RuthWeek11
 {
-    public class CodedWorkflow : CodedWorkflowBase
+    public partial class CodedWorkflow : CodedWorkflowBase
     {
         public CodedWorkflow()
         {
-            _ = new System.Type[]{typeof(UiPath.Core.Activities.API.ISystemService), typeof(UiPath.Testing.API.ITestingService), typeof(UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService)};
+            _ = new System.Type[]{typeof(UiPath.Core.Activities.API.ISystemService), typeof(UiPath.UIAutomationNext.API.Contracts.IUiAutomationAppService), typeof(UiPath.Testing.API.ITestingService)};
         }
 
         protected UiPath.Core.Activities.API.ISystemService system { get => serviceContainer.Resolve<UiPath.Core.Activities.API.ISystemService>() ; }
