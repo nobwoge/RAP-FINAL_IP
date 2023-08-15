@@ -186,7 +186,7 @@
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
                         </ueab:ReadRangeX>
-                        <uix:NApplicationCard sap2010:Annotation.AnnotationText="SaasBrowser is the homepage browser page URL created as a variable." AttachMode="ByInstance" CloseMode="Never" DisplayName="Use Browser Edge: StudentRuth1" sap:VirtualizedContainerService.HintSize="484,1932" sap2010:WorkflowViewState.IdRef="NApplicationCard_4" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="9ca9e5ee-c298-46ef-835e-c3f91a7fa026" Version="V2">
+                        <uix:NApplicationCard sap2010:Annotation.AnnotationText="SaasBrowser is the homepage browser page URL created as a variable." AttachMode="ByInstance" CloseMode="Never" DisplayName="Use Browser Edge: StudentRuth1" sap:VirtualizedContainerService.HintSize="484,1932" sap2010:WorkflowViewState.IdRef="NApplicationCard_4" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="9ca9e5ee-c298-46ef-835e-c3f91a7fa026" Version="V2">
                           <uix:NApplicationCard.Body>
                             <ActivityAction x:TypeArguments="x:Object">
                               <ActivityAction.Argument>
