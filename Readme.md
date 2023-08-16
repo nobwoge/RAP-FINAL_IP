@@ -25,7 +25,8 @@ Setup Instructions
 12.	Run the Workflow:
 13.	Open the Main.xaml file in the "Main" folder.
 14.	Click the "Run" button in UiPath Studio to execute the automation.
-15.	Deploy the robot by publishing and assign unattended robot from https://cloud.uipath.com/  Ochestrator.
+15. To terminate or interupt press the esc key.
+16.	Deploy the robot by publishing and assign unattended robot from https://cloud.uipath.com/  Ochestrator.
 
 
 Workflow Steps
