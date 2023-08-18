@@ -3,11 +3,11 @@ UiPath Project:
 ### DESCRIPTION
 This UiPath project automates the process of managing customer requests on zohodesk using Excel.
 
-Prerequisites
+### Prerequisites
 •	UiPath Studio installed.
 •	Excel application and Outlook email account configured.
 
-Setup Instructions
+### Setup Instructions
 1.	Clone or download the project repository to your local machine.
 2.	Open UiPath Studio:
 3.	Launch UiPath Studio on your computer.
@@ -30,7 +30,7 @@ Setup Instructions
 16.	Deploy the robot by publishing and assign unattended robot from https://cloud.uipath.com/  Ochestrator.
 
 
-Workflow Steps
+## Workflow Steps
 1.	Read Requests:
 •	Read customer requests from the Excel file specified in the configuration.
 •	Process and analyze the requests.
