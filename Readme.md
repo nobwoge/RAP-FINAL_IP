@@ -1,5 +1,4 @@
-###
-UiPath Project: 
+### UiPath Project: 
 ### DESCRIPTION
 This UiPath project automates the process of managing customer requests on zohodesk using Excel.
 
@@ -37,4 +36,11 @@ This UiPath project automates the process of managing customer requests on zohod
 
 2.	Update Excel File:
 •	Update the Excel file with the processing status and relevant details.
+ ### LICENCE 
+ MIT LICENSE
 
+### CONTACTS
+
+Mr A. Obwoge
+email , albertnyambegaa@gmail.com
+18/08/2023
